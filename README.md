@@ -26,22 +26,7 @@
 <code>▚▚▚</code>  <a href="#-arsenal">arsenal</a>  ·  <a href="#-the-dashboard">dashboard</a>  ·  <a href="#-featured-builds">builds</a>  ·  <a href="#-find-me">contact</a>  <code>▚▚▚</code>
 </h4>
 
-> whoami
-ts
-const aswanth = {
-  role:     "Software Builder",
-  base:     "Chennai, Tamil Nadu · IN",
-  building: ["cross-platform apps", "realtime backends"],
 
-  stack: {
-    client: ["Flutter", "Dart", "React", "Vite", "TypeScript"],
-    server: ["FastAPI", "Python", "Supabase", "Postgres"],
-  },
-
-  currently: "turning side projects into products",
-  openTo:    ["collabs", "freelance", "cracked ideas"],
-};
-<div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
 
