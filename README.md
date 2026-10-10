@@ -38,7 +38,7 @@
 <tr>
 <td>
 
-### 🏠 [LeaveEase](https://github.com/YOUR_GITHUB_USERNAME/LeaveEase)
+### 🏠 [LeaveEase](https://github.com/skaswanth07-hue/leaveEase)
 **Digital Outpass & Leave Management System for hostels**
 
 Replaces paper registers with a mobile app. Students request outpasses or home leave from their phone, wardens approve with one tap, and every movement is logged with timestamps.
