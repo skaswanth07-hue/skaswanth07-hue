@@ -15,8 +15,8 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=02569B&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=flat-square&color=3ECF8E)
+![Profile Views](https://komarev.com/ghpvc/?username=skaswanth07-hue&label=Profile%20Views&color=02569B&style=flat-square)
+![Followers](https://img.shields.io/github/followers/skaswanth07-hue?style=flat-square&color=3ECF8E)
 
 </div>
 
